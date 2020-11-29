@@ -1,0 +1,2 @@
+D:\Visual Studio 2019\VirtualMemoryManager_CS_351\Debug\VirtualMemoryManager_CS_351.exe
+D:\Visual Studio 2019\VirtualMemoryManager_CS_351\Debug\VirtualMemoryManager_CS_351.pdb
